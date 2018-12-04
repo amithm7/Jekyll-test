@@ -1,5 +1,5 @@
 # Intro
-- https://help.github.com/articles/about-jekyll-themes-on-github/
+- [https://help.github.com/articles/about-jekyll-themes-on-github/](https://help.github.com/articles/about-jekyll-themes-on-github/)
 - https://jekyllrb.com/
 
 # How to start
