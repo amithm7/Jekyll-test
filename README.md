@@ -1,12 +1,12 @@
 # Intro
-- [https://help.github.com/articles/about-jekyll-themes-on-github/](https://help.github.com/articles/about-jekyll-themes-on-github/)
-- https://jekyllrb.com/
+- [about-jekyll-themes-on-github/](https://help.github.com/articles/about-jekyll-themes-on-github/)
+- [jekyllrb.com](https://jekyllrb.com/)
 
 # How to start
-- https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/
-- Local install to test - https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+- [adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
+- Local install to test - [setting-up-your-github-pages-site-locally-with-jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
 # Advanced
-- https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
-- More pages - https://jekyllrb.com/docs/pages/
-- **Blogging and posts** - https://jekyllrb.com/docs/posts/
+- [customizing-css-and-html-in-your-jekyll-theme](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
+- [Adding more pages to the site](https://jekyllrb.com/docs/pages/)
+- [**Blogging and posts**](https://jekyllrb.com/docs/posts/)
