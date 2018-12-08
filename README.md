@@ -1,9 +1,9 @@
 # Intro
-- [About Jekyll themes on GitHub - Github Help](https://help.github.com/articles/about-jekyll-themes-on-github/)
+- [Jekyll and Gihub Pages - Github Help](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
 - [Jekyll Homepage](https://jekyllrb.com/)
 
 # How to start
-- [aAdding a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser - Github Help](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
+- [Adding a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser - Github Help](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/)
 - Local install to test - [Setting up your GitHub Pages site locally with Jekyll - Github Help](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
 # Advanced
