@@ -10,3 +10,6 @@
 - [Customizing CSS and HTML in your Jekyll theme - Github Help](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
 - [Adding more pages to the site](https://jekyllrb.com/docs/pages/)
 - [**Blogging and posts**](https://jekyllrb.com/docs/posts/)
+
+# More Resources
+- [Controlling URLs and Links in Jekyll](https://www.digitalocean.com/community/tutorials/controlling-urls-and-links-in-jekyll)
